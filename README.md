@@ -130,7 +130,7 @@ Key features:
 ---
 
 ## 📂 Project Structure
-kavyasudha2803/
+PoojaPagadala/
 
 ├── .gitignore
 
@@ -176,4 +176,4 @@ See the `MIT License.txt` file for details.
 ## 🔑 Keywords
 
 Camouflaged Object Detection, SegFormer, MiT-B2, Semantic Segmentation, Deep Learning, Transformer, Vision Transformer, PyTorch, COD10K, NC4K, Attention Mechanism, Binary Mask
-# -Camouflage-object-detection
+
