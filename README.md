@@ -131,23 +131,19 @@ Key features:
 
 ## 📂 Project Structure
 PoojaPagadala/
-
-├── .gitignore
-
-├── MIT License.txt
-
-├── README.md
-
-├── Requirements.txt
-
-└── segb2-COD_cleaned.ipyb
-
+├── model/ # Trained models or model-related files
+├── templates/ # HTML templates for the frontend
+├── LICENSE # License file
+├── README.md # Project overview and instructions
+├── app.py # Flask application entry point
+├── requirements.txt # Python dependencies
+└── segb2-COD_cleaned.ipynb # Jupyter Notebook for data preprocessing/model training
 ---
 
 ## License
 
-This project is licensed under the [MIT License](./MIT%20License.txt).  
-See the `MIT License.txt` file for details.
+This project is licensed under the [MIT License](./LICENSE).  
+See the `LICENSE` file for details.
 
 ---
 
