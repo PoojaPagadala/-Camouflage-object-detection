@@ -131,12 +131,19 @@ Key features:
 
 ## 📂 Project Structure
 PoojaPagadala/
+
 ├── model/
+
 ├── templates/
+
 ├── LICENSE
+
 ├── README.md
+
 ├── app.py
+
 ├── requirements.txt
+
 └── segb2-COD_cleaned.ipynb
 
 
